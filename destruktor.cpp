@@ -10,3 +10,10 @@ public:
     ~angka(); //Destructor
     void cetakData();
     void isiData();
+};
+//Definisi memeber Function
+angka::angka(int i){ //Constructor
+    panjang = i;
+    arr = new int[i];
+    isiData();
+}
