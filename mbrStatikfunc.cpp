@@ -17,3 +17,5 @@ public:
 
     mahasiswa(string nama):nama(pnama){setID();}
 };
+
+int mahasiswa::nim=0;
