@@ -20,4 +20,4 @@ public:
 int main()
 {
     // bukunya.setJudul("Matematika");
-    // cout << bukunya.setJudul("Matematika").getJudul(); // chain function calls
+    // cout << bukunya.getJudul();
