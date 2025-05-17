@@ -16,3 +16,6 @@ public:
     }
 
 } bukunya;
+
+int main()
+{
