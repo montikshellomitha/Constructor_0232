@@ -13,3 +13,8 @@ mahasiswa(string);
 mahasiswa(int iNim, string iNama);
 void cetak();
 };
+
+mahasiswa :: mahasiswa(){
+    nim = 0;
+    nama = "";
+}
